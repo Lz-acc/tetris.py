@@ -19,7 +19,7 @@ A classic Tetris game built with **Python** and **Pygame**.
 1. Clone the repository:
 git clone
 ```
-https://github.com/YOUR_USERNAME/tetris.git
+https://github.com/Lz-acc/tetris.git
 ```
 Install dependencies:
 
